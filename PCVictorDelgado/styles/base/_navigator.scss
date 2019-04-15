@@ -1,0 +1,36 @@
+﻿.topnav {
+    background-color: $site-color-black;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: $background-color;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: $site-color-white;
+}
+
+.titulo {
+    display:block;
+
+    width: 100%;
+    color: $site-color-white;
+    position: center;
+}
+
+.videoClass{
+    display:block;
+    margin:10px;
+}

@@ -1,0 +1,34 @@
+﻿body {
+  background-color: #1a1b6c;
+  margin-left: 2rem;
+  margin-right: 2rem; }
+
+.topnav {
+  background-color: #000000;
+  overflow: hidden; }
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px; }
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: #1a1b6c; }
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: #fff; }
+
+.titulo {
+  display: block;
+  width: 100%;
+  color: #fff;
+  position: center; }
+
+.videoClass {
+  display: block;
+  margin: 10px; }
